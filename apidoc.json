@@ -1,0 +1,7 @@
+{
+  "name": "Wasp API",
+  "version": "0.0.1",
+  "description": "Wasp API v1.0",
+  "title": "Custom apiDoc browser title",
+  "url" : "api"
+}

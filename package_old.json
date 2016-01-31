@@ -1,0 +1,20 @@
+{
+  "name": "apiserver",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "",
+    "express": "~4.9.2",
+    "mongoose": "",
+    "mysql": "~2.5.0",
+    "ws": "^0.6.5",
+    "connect-multiparty": "^1.0.4"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "subdomain": "gupdwts",
+  "scripts": {
+    "start": "server.js"
+  }
+}

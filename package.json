@@ -1,0 +1,21 @@
+{
+  "name": "Swaply",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.0",
+    "moment": "^2.9.0",
+    "mongoose": "^4.0.1",
+    "morgan": "^1.6.1",
+    "needle": "^0.8.2"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "1.2.x"
+  },
+  "subdomain": "swaply",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
